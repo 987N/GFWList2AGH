@@ -48,7 +48,7 @@ function GetData() {
         "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     gfwlist2agh_modify=(
-        "https://raw.githubusercontent.com/WPF0414/GFWList2AGH/refs/heads/source/data/data_modify.txt"
+        "https://raw.githubusercontent.com/987N/GFWList2AGH/refs/heads/source/data/data_modify.txt"
     )
     rm -rf ./gfwlist2* ./Temp && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
