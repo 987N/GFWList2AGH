@@ -59,9 +59,6 @@
 ## 自定义规则 - 开始
 
 # PrivateTracker
-(@&!)announce
-(@&!)torrent
-(@&!)tracker
 (@&!)1ptba.com
 (@&!)52pt.site
 (@&!)aidoru-online.me
