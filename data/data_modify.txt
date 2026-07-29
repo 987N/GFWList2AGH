@@ -33,7 +33,7 @@
 # (@&@) | 仅向 G 列表添加域名
 (@&@)example.org
 
-# (!&@) | 仅向 G 列表移除域名
+# (!&!) | 仅向 G 列表移除域名
 (!&!)example.org
 
 # (*&*) | 仅向 G 列表排除域名 (*.example.org & example.org)
@@ -182,6 +182,10 @@
 
 # duolingo
 (*%*)duolingo.cn
+
+# uv
+(@&!)astral.sh
+(@&!)uv.dev
 
 # siri
 # (!%!)guzzoni.smoot.apple.com
